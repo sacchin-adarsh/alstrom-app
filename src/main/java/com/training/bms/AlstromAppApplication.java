@@ -8,7 +8,7 @@ public class AlstromAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AlstromAppApplication.class, args);
-		System.out.println("ALSTROM APP STARTED on SATURDAY");
+		System.out.println("ALSTROM APP STARTED on SUNDAY");
 	}
 
 }
